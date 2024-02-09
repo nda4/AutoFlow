@@ -128,13 +128,17 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="button.h" />
+    <ClInclude Include="dropdown.h" />
     <ClInclude Include="options.h" />
+    <ClInclude Include="trigger.h" />
     <ClInclude Include="UI.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="button.cpp" />
+    <ClCompile Include="dropdown.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="options.cpp" />
+    <ClCompile Include="trigger.cpp" />
     <ClCompile Include="UI.cpp" />
   </ItemGroup>
   <ItemGroup>
